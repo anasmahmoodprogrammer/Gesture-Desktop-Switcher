@@ -16,7 +16,7 @@ This project lets you **swipe to switch desktops, create new ones with an open p
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/officialanas20/Gesture-Desktop-Switcher.git
+git clone https://github.com/anasmahmoodprogrammer/Gesture-Desktop-Switcher.git
 cd Gesture-Desktop-Switcher
 # Gesture-Desktop-Switcher
 
